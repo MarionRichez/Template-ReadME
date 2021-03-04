@@ -7,7 +7,7 @@ One Paragraph of project description goes here
 ### Clone the projet in your folder
 
 ```
-git clone https://github.com/MarionRichez/job-tracker-app.git
+git clone ...
 ```
 
 ### Installing
